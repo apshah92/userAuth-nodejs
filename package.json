@@ -9,7 +9,7 @@
   "author": "Arpan Shah",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.16.1",
     "mysql": "^2.17.1"
   }
